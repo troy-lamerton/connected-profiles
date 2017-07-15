@@ -1,0 +1,36 @@
+{
+    "images": {
+        "Beard2": "http://i.imgur.com/M62spZ8.jpg",
+        "wDog4g": "http://i.imgur.com/IpATXec.jpg",
+        "cBreez": "http://i.imgur.com/eSFnVOv.jpg",
+        "lif00e": "http://i.imgur.com/OB7oGP2.jpg",
+        "res89g": "http://i.imgur.com/lUnFBIk.jpg",
+        "up1Laf": "http://i.imgur.com/J0yNWCX.jpg"
+    },
+    "people": {
+        "Beard2": {
+            "name": "Tomeda",
+            "description": "Mindful workshops, down to earth human"
+        },
+        "wDog4g": {
+            "name": "Tomeda",
+            "description": "I love yoga and meditation. I do classes for both."
+        },
+        "cBreez": {
+            "name": "Clarisa",
+            "description": "Co-creation and team building - Collaborate for the future"
+        },
+        "lif00e": {
+            "name": "Belinda Li",
+            "description": "Founder of Peace Forest Berlin, I plant brain seeds"
+        },
+        "res89g": {
+            "name": "Reese",
+            "description": ""
+        },
+        "up1Laf": {
+            "name": "Tomeda",
+            "description": "Enjoy doing my yoga classedown to earth human"
+        }
+    }
+}
